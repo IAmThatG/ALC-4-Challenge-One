@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">alc4 challenge1</string>
+    <string name="track_text">Track: Android</string>
+    <string name="country_text">Country: Nigeria</string>
+    <string name="email_text">Email: gabriel_ifeanyi@ymail.com</string>
+    <string name="phone_text">Phone: +234 (0)818 103 1763</string>
+    <string name="name_text">Gabriel Okolie</string>
+    <string name="career_text">software engineer</string>
+</resources>
